@@ -1,4 +1,4 @@
-# HTML-CSS-Git-Challenge-Code-Refactor
+# Code-Refactor: HTML-CSS
 
   ![License](https://img.shields.io/badge/license-mit-informational.svg)
   
